@@ -21,3 +21,15 @@ h1 span{color:var(--blue);text-shadow:none;-webkit-text-stroke:0}
 .skills-section{background:#d9e5e7}
 .nav-cta,.software-strip{box-shadow:3px 3px 0 var(--ink)}
 .button{box-shadow:3px 3px 0 var(--ink)}
+
+.project-section{background:var(--paper2)}
+.project-grid{display:grid;grid-template-columns:minmax(0,1.15fr) minmax(280px,.85fr);gap:clamp(2rem,7vw,7rem);align-items:start}
+.project-copy{max-width:760px}.project-kicker{font-size:.76rem;font-weight:700;letter-spacing:.08em;color:var(--blue)}
+.project-copy h3{margin:.5rem 0 1.25rem;font-size:clamp(2rem,4vw,3.6rem);letter-spacing:-.04em}
+.project-copy>p{font-size:1.05rem}.project-copy ul{padding-left:1.2rem}
+.project-card{padding:1.4rem;border:var(--line);background:var(--ink);color:var(--paper);box-shadow:7px 7px 0 var(--acid)}
+.project-card>p:first-child{margin-top:0;color:var(--acid);font-size:.72rem;font-weight:700;letter-spacing:.08em}
+.project-card dl{margin:0}.project-card dl div{padding:.8rem 0;border-bottom:1px dashed rgba(247,245,239,.35)}
+.project-card dt{font-size:.68rem;text-transform:uppercase;color:var(--acid)}.project-card dd{margin:.15rem 0 0}
+.project-note{margin:1.2rem 0 0;font-size:.78rem}
+@media(max-width:850px){.project-grid{grid-template-columns:1fr}}
