@@ -1,23 +1,25 @@
 # Rafet — Operations & Administration Portfolio
 
-[![Live portfolio](https://img.shields.io/badge/Live_Portfolio-View_Site-F36B2B?style=for-the-badge)](https://rafet1829.github.io/portfolio/)
+[![Live portfolio](https://img.shields.io/badge/Live_Portfolio-View_Site-1D6475?style=for-the-badge)](https://rafet1829.github.io/portfolio/)
 
-A responsive professional portfolio presenting experience in **operations, administration, team coordination, staff scheduling, training, stock control, record keeping, and customer service**.
+A responsive professional portfolio focused on office-based opportunities in **administration, operations, scheduling, customer service, purchasing, and stock coordination**.
 
-## Portfolio highlights
+## What the portfolio demonstrates
 
-- Professional experience and career progression
-- Skills across administration, operations, and team support
-- Education, training, and certifications
-- Responsive design for desktop and mobile
-- Accessible navigation and reduced-motion support
+- Career progression from Team Member to Training Team Leader and Shift Manager
+- Staff scheduling, record keeping, stock control, delivery coordination, and operational reporting
+- Team training, customer service, complaint resolution, and workplace safety
+- Experience using Employment Hero, Sona, TeamLive, Oracle MICROS Simphony, Excel, Word, and PowerPoint
+- Education, professional training, and certifications
 
-## Built with
+## Portfolio technology
 
 - Semantic HTML5
 - Modern CSS
 - Vanilla JavaScript
 - GitHub Pages
+
+These technologies describe how the portfolio was built; they are separate from the workplace skills presented in the profile.
 
 ## Live website
 
