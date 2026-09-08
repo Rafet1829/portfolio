@@ -1,39 +1,28 @@
-# Rafet — Operations & Administration Portfolio
+# Rafet's Operations and Administration Portfolio
 
-[![Live portfolio](https://img.shields.io/badge/Live_Portfolio-View_Site-1D6475?style=for-the-badge)](https://rafet1829.github.io/portfolio/)
+[View the live portfolio](https://rafet1829.github.io/portfolio/)
 
-A responsive professional portfolio focused on office-based opportunities in **administration, operations, scheduling, customer service, purchasing, and stock coordination**.
+This website brings together my work experience, education, practical skills and personal projects. I built it while preparing to move from hospitality operations into an office-based administration or operations role.
 
-## What the portfolio demonstrates
+## About me
 
-- Career progression from Team Member to Training Team Leader and Shift Manager
-- Staff scheduling, record keeping, stock control, delivery coordination, and operational reporting
-- Team training, customer service, complaint resolution, and workplace safety
-- Experience using Employment Hero, Sona, TeamLive, Oracle MICROS Simphony, Excel, Word, and PowerPoint
-- Education, professional training, and certifications
+My experience includes supervising shifts, coordinating staff, supporting rotas, training colleagues, checking stock, organising deliveries and keeping operational records. I have progressed from Team Member to Training Team Leader and Shift Manager.
 
-## Portfolio technology
+I currently work full-time at Yorkshire Garden Centres and part-time at Taco Bell. I am looking for opportunities in administration, operations support, scheduling, customer service, purchasing and stock coordination.
 
-- Semantic HTML5
-- Modern CSS
-- Vanilla JavaScript
-- GitHub Pages
+## Systems and software
 
-These technologies describe how the portfolio was built; they are separate from the workplace skills presented in the profile.
+I have used Employment Hero, Sona, TeamLive and Oracle MICROS Simphony at work. I also use Microsoft Excel, Word and PowerPoint.
 
-## Live website
+## How this website was built
 
-**[rafet1829.github.io/portfolio](https://rafet1829.github.io/portfolio/)**
+The portfolio uses HTML, CSS and JavaScript and is hosted with GitHub Pages. It does not require a framework or build process.
 
-## Local development
-
-No framework or build step is required. Clone the repository and open `index.html` in a browser.
+To view it locally, clone the repository and open `index.html`:
 
 ```bash
 git clone https://github.com/Rafet1829/portfolio.git
 cd portfolio
 ```
 
----
-
-Built and maintained by **Rafet**.
+The website is maintained by Rafet.
